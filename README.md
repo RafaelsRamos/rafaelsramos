@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋 I'm Rafael</h1>
 <h4 align="center">I am an Android developer from Portugal currently living in Italy</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaelsramos" alt="rafaelsramos" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaelsramos&theme=darkhub" alt="rafaelsramos" /></a> </p>
 
 - 🔭 I’m currently working on [Quizea](https://play.google.com/store/apps/details?id=com.scookie.quizzapp)
 
