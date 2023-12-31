@@ -7,7 +7,7 @@
 
 - 👯 and contributing to open source projects such as [LibreTube](https://github.com/libre-tube/LibreTube)
 
-<!-- - 📫 How to reach me **rafaelsramos95@gmail.com** -->
+- 📫 How to reach me **rafaelsramos95@gmail.com**
 <!--- 📄 Know about my experiences - [take a look at CV](https://drive.google.com/file/d/1sNxybzv7uk6bYsk2I-L-Eg3XCXpeUPG5/view?usp=sharing)-->
 
 <h3 align="left">Connect with me:</h3>
